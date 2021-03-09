@@ -4,6 +4,15 @@ h1.titulo{
     color: black;
 }
 
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+
+hr{
+    width: 100%;
+}
+
 div.resumen{
     width: 65%;
     margin: 20px auto;
@@ -65,6 +74,45 @@ section article.personajes span.tipo{
     border-radius: 15px 15px 0px 0px;
     font-weight: bolder;
 }
+
+section div.datos{
+    width: 30%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 0px 20px 30px 0px;
+    float: right;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section div.datos h1{
+    text-align: center;
+}
+
+section div.datos h2{
+    margin-left: 85px;
+}
+
+section div.datos article.post{
+    width: 95%;
+    margin-left: 2%;
+    margin-top: 25px;
+    border-top: 2px solid black;
+}
+
+section div.datos p{
+    font-style: italic;
+    font-size: 0.8em;
+    text-align: justify;
+    margin: 5px 5% 20px 5%;
+}
+
+section div.datos video{
+    margin: 0px 5%;
+    width: 90%;
+}
+
+
 
 
 
