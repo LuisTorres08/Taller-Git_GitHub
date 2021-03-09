@@ -1,0 +1,23 @@
+h1.titulo{
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+
+div.resumen{
+    width: 65%;
+    margin: 20px auto;
+    background-color: lightcoral;
+    color: black;
+    padding: 15px;
+    float: left;
+    box-shadow: white;
+    text-align: justify;
+}
+
+div.resumen img.izquierda{
+    float: left;
+    margin-right: 15px;
+    height: 180px;
+    width: 150px;
+}
