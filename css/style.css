@@ -112,6 +112,143 @@ section div.datos video{
     width: 90%;
 }
 
+/**Colores**/
+
+/*Light*/
+section article.Light{
+    background-color:gray;
+}
+
+section article.Light span.tipo{
+    background-color: whitesmoke;
+}
+
+section article.Light span.tipo,
+section article.Light,
+section article.Light figure img{
+    border-color: whitesmoke;
+}
+section article.Light h2{
+    color:whitesmoke;
+}
+
+section article.Light p{
+  color:whitesmoke;
+}
+
+/*L*/
+section article.L{
+    background-color:red;
+}
+
+section article.L span.tipo{
+    background-color: lime;
+}
+
+section article.L span.tipo,
+section article.L,
+section article.L figure img{
+    border-color: lime;
+}
+section article.L h2{
+    color:lime;
+}
+
+section article.L p{
+  color:lime;
+}
+
+/*Misa*/
+section article.Misa{
+    background-color:yellow;
+}
+
+section article.Misa span.tipo{
+    background-color: gray;
+}
+
+section article.Misa span.tipo,
+section article.Misa,
+section article.Misa figure img{
+    border-color: gray;
+}
+section article.Misa h2{
+    color:gray;
+}
+
+section article.Misa p{
+  color:gray;
+}
+
+/*Near*/
+section article.Near{
+    background-color:purple;
+}
+
+section article.Near span.tipo{
+    background-color: yellow;
+}
+
+section article.Near span.tipo,
+section article.Near,
+section article.Near figure img{
+    border-color: yellow;
+}
+section article.Near h2{
+    color:yellow;
+}
+
+section article.Near p{
+  color:yellow;
+}
+
+/*Mello*/
+section article.Mello{
+    background-color:blue;
+}
+
+section article.Mello span.tipo{
+    background-color: orange;
+}
+
+section article.Mello span.tipo,
+section article.Mello,
+section article.Mello figure img{
+    border-color: orange;
+}
+section article.Mello h2{
+    color:orange;
+}
+
+section article.Mello p{
+  color:orange;
+}
+
+/*Ryuk*/
+ection article.Ryuk{
+    background-color:white;
+}
+
+section article.Ryuk span.tipo{
+    background-color: white;
+}
+
+section article.Ryuk span.tipo,
+section article.Ryuk,
+section article.Ryuk figure img{
+    border-color: red;
+}
+section article.Ryuk h2{
+    color:black;
+}
+
+section article.Ryuk p{
+  color:black;
+}
+
+
+
+
 
 
 
