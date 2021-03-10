@@ -1,10 +1,19 @@
+body{
+    background-image: url("https://www.wallpapertip.com/wmimgs/7-79641_death-note-wallpaper-pc.jpg");
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
 h1.titulo{
     font-size: 100px;
     text-align: center;
-    color: black;
+    color: white;
 }
 
 h3{
+    color: white;
     text-align: center;
     font-size: 30px;
 }
@@ -225,7 +234,7 @@ section article.Mello p{
 }
 
 /*Ryuk*/
-ection article.Ryuk{
+section article.Ryuk{
     background-color:white;
 }
 
