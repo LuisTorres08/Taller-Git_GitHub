@@ -22,6 +22,19 @@ hr{
     width: 100%;
 }
 
+table{
+    background-color: red;
+    color: white;
+    margin: 0px auto;
+    width: 80%;
+    border-collapse: collapse;  
+}
+
+td, th {
+    border: black 1px solid;
+    color: white;
+  }
+
 div.resumen{
     width: 65%;
     margin: 20px auto;
